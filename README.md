@@ -1,1 +1,2 @@
-este proyecto es una prueba de como crear un repositorio y clonarlo 
+andres zapata 
+este proyecto es una prueba de como crear un repositorio y clonarlo de hid hub a mi escritorio local
